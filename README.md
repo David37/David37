@@ -1,6 +1,6 @@
-<p align="center"><h1>Hey there<h1/>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<img src='https://raw.githubusercontent.com/David37/David37/master/TheDino.gif'/><p/> 
+<p align="center"><h1>Hey there<h1/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><p/> 
+
+<p align="center"><img src='https://raw.githubusercontent.com/David37/David37/master/TheDino.gif'/><p/> 
 
 I'm David, a technology enthusieast. I am currently studying Computer Science and Information Systems at Rhodes University.
 - 🔭 I’m currently working on a Systems development project for my University
