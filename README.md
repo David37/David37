@@ -1,7 +1,5 @@
 # Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p align="center"><img src='https://raw.githubusercontent.com/David37/David37/master/TheDino.gif'/><p/> 
-
 I'm David, a technology enthusieast. I am currently studying Computer Science and Information Systems at Rhodes University.
 - 🔭 I’m currently working on a Systems development project for my University
 - 🌱 I’m currently learning about PHP and Compilers.
@@ -22,5 +20,5 @@ I'm David, a technology enthusieast. I am currently studying Computer Science an
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=David37&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p align="left"><img src='https://raw.githubusercontent.com/David37/David37/master/TheDino.gif'/><p/> 
 
