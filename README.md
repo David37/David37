@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Hey there<h1/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center"><img src='https://raw.githubusercontent.com/David37/David37/master/TheDino.gif'/><p/> 
 
