@@ -9,7 +9,7 @@ I'm David, a technology enthusieast. I am currently studying Computer Science an
 
 ### Contact Me
 
-![ProtonMail Badge](https://img.shields.io/badge/-davidkondic@protonmail.com-8B89CC?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:davidkondic@protonmail.com)
+[![ProtonMail Badge](https://img.shields.io/badge/-davidkondic@protonmail.com-8B89CC?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:davidkondic@protonmail.com)](mailto:davidkondic@protonmail.com)
 
 # :computer: Technologies I've used
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
