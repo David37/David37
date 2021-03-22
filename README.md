@@ -21,6 +21,6 @@ I'm David, a technology enthusieast. I am currently studying Computer Science an
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=David37&count_private=true&show_icons=true&hide=stars)](https://github.com/David37)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=David37&repo=Reactivities)](https://github.com/David37/Hambe-Kahle)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=David37&repo=Reactivities)](https://github.com/David37/Reactivities)
 
 
