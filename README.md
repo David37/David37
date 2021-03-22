@@ -2,8 +2,8 @@
 <img align='right' src='https://raw.githubusercontent.com/David37/David37/master/TheDino.gif'/>
 
 I'm David, a technology enthusieast. I am currently studying Computer Science and Information Systems at Rhodes University.
-- 🔭 I’m currently working on a Systems development project for my University
-- 🌱 I’m currently learning about PHP and Compilers.
+- 🔭 I’m currently working on a React based application.
+- 🌱 I’m currently learning about ASP.Net development.
 - ⚡ Fun fact: I might be addicted to playing chess... 
 
 
@@ -21,6 +21,6 @@ I'm David, a technology enthusieast. I am currently studying Computer Science an
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=David37&count_private=true&show_icons=true&hide=stars)](https://github.com/David37)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=David37&repo=Hambe-Kahle)](https://github.com/David37/Hambe-Kahle)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=David37&repo=Reactivities)](https://github.com/David37/Hambe-Kahle)
 
 
